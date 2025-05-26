@@ -4,6 +4,10 @@
 🔭 Currently building **InfiniteMonke** – a live, probabilistic typing simulation inspired by the Infinite Monkey Theorem.  
 > Built with **TypeScript**, **React**, **Node.js**, **Firestore**, and **Socket.IO**.
 
+🧩 Contributing to **[Stemforothers](https://www.stemforothers.org/)** – an open source project making STEM education more accessible through interactive, map-based learning experiences.  
+> Full-stack development using **Next.js**, **Drizzle ORM**, and **PostgreSQL**.  
+> 🌐 [Live Web App](https://stemforothers.vercel.app/)
+
 👯 I’m looking to collaborate on **projects for social good**.  
 🌱 After managing my family's business during a medical crisis, I realized how well-built software can solve real-world problems.  
 
