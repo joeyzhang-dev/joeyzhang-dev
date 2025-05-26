@@ -6,9 +6,6 @@
 
 👯 I’m looking to collaborate on **projects for social good**.  
 🌱 After managing my family's business during a medical crisis, I realized how well-built software can solve real-world problems.  
-Now, I strive to **blend practical impact with technical rigor** — building things that last and helping others along the way.
-
----
 
 ## 🌐 Connect with Me
 
@@ -33,10 +30,6 @@ Now, I strive to **blend practical impact with technical rigor** — building th
 ![](https://nirzak-streak-stats.vercel.app/?user=LunexZ&theme=dark&hide_border=true)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LunexZ&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
 
-## ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
