@@ -10,10 +10,7 @@
 
 👯 I’m looking to collaborate on **projects for social good**.  
 🌱 After managing my family's business during a medical crisis, I realized how well-built software can solve real-world problems.  
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joeyzhangdev/)
+> 🌐 Connect with Me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joeyzhangdev/)
 
 ---
 
