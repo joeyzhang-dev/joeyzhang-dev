@@ -31,17 +31,6 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LunexZ&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width="32%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=LunexZ&theme=dark&hide_border=true" width="32%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunexZ&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="32%" />
-</div>
-
-
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
