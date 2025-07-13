@@ -1,6 +1,6 @@
 # 💫 About Me
 
-🎓 **Math Major with a Concentration in Computer Science**  
+🎓 **Applied Math + Computer Science**  
 🔭 Currently building **InfiniteMonke** – a live, probabilistic typing simulation inspired by the Infinite Monkey Theorem.  
 > Built with **TypeScript**, **React**, **Node.js**, **Firestore**, and **Socket.IO**.
 
